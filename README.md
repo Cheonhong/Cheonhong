@@ -1,5 +1,5 @@
 ### Hi there 👋
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)<a href="https://www.linkedin.com/in/cheonhonglee/"> 
+<a href="https://www.linkedin.com/in/cheonhonglee/">![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 
 <!--
 **Cheonhong/Cheonhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
